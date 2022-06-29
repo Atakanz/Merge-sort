@@ -20,4 +20,7 @@ Big - O gösterimi:
 ```
     O(n*logn) => O(6*log6)
 ```
-
+Patika profil linki:
+```
+https://app.patika.dev/atakanzerafet
+```
